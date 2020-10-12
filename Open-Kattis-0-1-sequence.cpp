@@ -1,3 +1,7 @@
+/*GPL lisence,
+
+Status: WA
+*/
 #include <iostream>
 #include <string>
 using namespace std;
