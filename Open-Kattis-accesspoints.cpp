@@ -46,7 +46,7 @@ double compute(long long * x,  int n ){
 
 int main() {
 	int n;
-	cout << fixed << setprecision(20);
+	cout << fixed << setprecision(20); //very critical to add
 
 	cin >> n;
 	for(int i = 0; i < n; ++i){
